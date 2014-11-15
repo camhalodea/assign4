@@ -372,7 +372,7 @@ void reset() {
 
   /*-----------Call Make Alien Function--------*/
   alienMaker(53,12);
-  alienCount=53;
+
   ship.posX = width/2;
   ship.posY = 460;
   ship.upGrade = false;
